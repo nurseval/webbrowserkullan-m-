@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\webbrowserkullanımı\bin\Debug\webbrowserkullanımı.exe.config
+C:\Users\Nur\source\repos\webbrowserkullanımı\bin\Debug\webbrowserkullanımı.exe
+C:\Users\Nur\source\repos\webbrowserkullanımı\bin\Debug\webbrowserkullanımı.pdb
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.Form1.resources
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.Properties.Resources.resources
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.exe
+C:\Users\Nur\source\repos\webbrowserkullanımı\obj\Debug\webbrowserkullanımı.pdb
